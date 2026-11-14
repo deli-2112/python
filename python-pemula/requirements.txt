@@ -1,0 +1,13 @@
+# Python untuk Pemula - Daftar Dependensi
+# Membutuhkan Python 3.10 atau lebih baru
+#
+# Pasang semua paket dengan:
+#   pip install -r requirements.txt
+#
+# Perbarui daftar ini sesuai isi virtual environment dengan:
+#   pip freeze > requirements.txt
+
+requests>=2.31.0
+numpy>=1.26.0
+pandas>=2.1.0
+matplotlib>=3.7.0

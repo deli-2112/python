@@ -1,0 +1,23 @@
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# File rahasia / konfigurasi lokal
+.env
+
+# Editor
+.vscode/
+.idea/
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log
+*.log
